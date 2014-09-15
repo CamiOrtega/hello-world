@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First github repository
+The readme for a fake project so I can learn git. 
